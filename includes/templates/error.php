@@ -1,0 +1,1 @@
+<p class="inkseekers-error"><b><?php esc_html_e('Error:', 'inkseekers'); ?></b> <?php echo wp_kses_post($error); ?></p>

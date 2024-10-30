@@ -1,0 +1,20 @@
+.inkseekers-toolbar .inkseekers-toolbar-issues {
+    background-color: #d54e21;
+    display: inline-block;
+    padding: 0 5px !important;
+    border-radius: 10px !important;
+    line-height: 16px !important;
+    font-size: 11px !important;
+    color: #fff !important;
+}
+.inkseekers-toolbar:hover .inkseekers-toolbar-issues,
+.inkseekers-toolbar:active .inkseekers-toolbar-issues,
+.inkseekers-toolbar.hover .inkseekers-toolbar-issues
+{
+    color: #fff !important;
+}
+
+#adminmenu .toplevel_page_inkseekers-dashboard  img {
+    width: 28px;
+    padding: 3px;
+}
